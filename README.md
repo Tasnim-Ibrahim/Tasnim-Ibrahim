@@ -77,7 +77,7 @@ My goal is to **ensure software quality, optimize test strategies, and enhance s
 ---
 
 ## 🏆 **Achievements**
-✔ **Reduced testing time by 30%** by implementing automated test procedures.  
+✔ **Reduced testing time** by implementing automated test procedures.  
 ✔ **Developed test automation frameworks**, improving efficiency & reliability.  
 
 ---
